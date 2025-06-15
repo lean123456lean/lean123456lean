@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center" style="display: inline_block"><br>
 

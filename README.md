@@ -41,9 +41,9 @@
 
 ## 💻 Sobre mim
 
-- 💼 Atualmente desenvolvendo projetos pessoais e SaaS
+- 💼 Atualmente desenvolvendo projetos  SaaS
 - 🎯 Buscando sempre aprender e evoluir
-- 📚 Amante de tecnologia, backend, frontend e automação
+- 📚  backend, frontend e automação
 
 ---
 

@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Leandro Martins 😄</h1>
 
-<p align="center">Desenvolvedor Full Stack | Apaixonado por tecnologia e soluções criativas 🚀</p>
+<p align="center">Desenvolvedor Full Stack </p>
 
 ---
 
